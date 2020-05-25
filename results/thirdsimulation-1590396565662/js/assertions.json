@@ -1,0 +1,10 @@
+{
+  "simulation": "BA.ThirdSimulation",
+  "simulationId": "thirdsimulation",
+  "start": 1590396565662,
+  "description": "",
+  "scenarios": ["Ding-Dong-Ding-Dong"],
+  "assertions": [
+
+  ]
+}
